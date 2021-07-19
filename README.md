@@ -5,27 +5,27 @@ The purpose of this project was to apply machine learning to solve a real-world 
 Oversampling
 Naïve Random Oversampling
 
-PIC 1
+![pic1](Resources/pic1.png)
 
 SMOTE Oversampling
 
-Pic 2
+![pic2](Resources/pic2.png)
 
 Under Sampling
 Cluster Centroids Algorithm
 
-Pic 3
+![pic3](Resources/pic3.png)
 
 Combination (Over and Under) Sampling
 SMOTEENN
 
-Pic 4
+![pic4](Resources/pic4.png)
 
 Ensemble Learners
 Balanced Random Forest Classifier
 
-Pic 5
+![pic5](Resources/pic5.png)
 
 Easy Ensemble AdaBoost Classifier
 
-Pic 6
+![pic6](Resources/pic6.png)
