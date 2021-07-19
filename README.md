@@ -29,3 +29,6 @@ Balanced Random Forest Classifier
 Easy Ensemble AdaBoost Classifier
 
 ![pic6](Resources/pic6.png)
+
+### Summary
+All of our models show a very weak precision when determining high risk credit. The ensemble models showed improvement over the other 4, as the recall improved quite a bit with these models. The EasyEnsembleClassifier model was the best one with a recall of 84 percent for high risk and 95 percent for low risk. But with a precision of 8 percent for high risk a lot of low risk credit is flagged as high risk that shouldn’t be.
